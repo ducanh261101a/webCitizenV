@@ -1,0 +1,10 @@
+[
+  {
+    "icon": "bx bx-error",
+    "content": "Lỗi hệ thống (test)"
+  },
+  {
+    "icon": "bx bx-error",
+    "content": "Lỗi dữ liệu (test)"
+  }
+]
